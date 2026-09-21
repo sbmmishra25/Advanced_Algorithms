@@ -1,0 +1,3 @@
+# The core algorithms use only the Python standard library.
+# pytest is optional and is used only to run the test suite.
+pytest>=8,<10
